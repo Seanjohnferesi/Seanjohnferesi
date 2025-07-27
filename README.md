@@ -50,6 +50,10 @@ Feel free to connect or reach out:
 I enjoy learning through hands-on projects and love sharing what I learn with my community. Always up for coding challenges and collaboration but i also love gaming, yeah gaming.
 
 ---
-
 *Thanks for visiting my profile!*
-![tq](https://github.com/user-attachments/assets/c9ac54c8-c72b-45bb-9bca-23abd063cd70)
+
+![tq](https://github.com/user-attachments/assets/c9ac54c8-c72b-45bb-9bca-23abd063cd70)  
+
+*More*
+![hi](https://github.com/user-attachments/assets/286a914b-aad0-4e25-8553-87239043dd85)
+
