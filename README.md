@@ -23,17 +23,33 @@ I'm a passionate **web developer student** from Zimbabwe diving deep into coding
 - **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat-square), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat-square), ![VS Code](https://img.shields.io/badge/-VS_Code-0078D7?logo=visual-studio-code&logoColor=fff&style=flat-square).
 - **Others:**  ![Responsive Design](https://img.shields.io/badge/-Responsive_Design-4CAF50?style=flat-square), ![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=fff&style=flat-square).
 
-<!--
-**Seanjohnferesi/Seanjohnferesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Featured Projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few projects I’m proud of:  
+
+- [Project 1 - Tailwind CSS Footer Design](https://github.com/Seanjohnferesi/Module_08_SEAFER25532_FTO2506_GroupB_Seanjohnferesi_SDF04)  
+  A project demonstrating grid layouts and responsive footers with Tailwind CSS.
+
+*More projects coming soon!*
+
+---
+
+## 📫 Get in Touch  
+
+Feel free to connect or reach out: 
+
+- 📧 Email: seanjohnferesi27@gmail.com  
+- 💼 LinkedIn:[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sean-feresi-904246252/).
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy learning through hands-on projects and love sharing what I learn with my community. Always up for coding challenges and collaboration but i also love gaming, yeah gaming.
+
+---
+
+*Thanks for visiting my profile!*
+![tq](https://github.com/user-attachments/assets/c9ac54c8-c72b-45bb-9bca-23abd063cd70)
